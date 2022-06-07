@@ -5,7 +5,7 @@ that can be used with DeepMind's ACME framework to train a Reinforcement Learnin
 more biologically realistic and more challenging effector to train than the typical *reacher* environment included in
 the original package.
 
-This code is provided as-is, but feel free to log any issue if you find one. Any contribution is greatly appreciated!
+This code is provided as-is, but feel free to log any issue if you find one. Any contribution is greatly appreciated.
 
 ## Dependencies
 
